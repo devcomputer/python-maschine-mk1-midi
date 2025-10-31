@@ -1,0 +1,21 @@
+{
+   "outdevice": "Maschine MK1 Python MIDI",
+   "groups": [
+     {
+       "rows": 4,
+       "cols": 4,
+       "position": [165, 0],
+       "dimensions": [42, 42],
+       "spacing": [44, 44],
+       "controls": [
+         48,49,50,51,
+         44,45,46,47,
+         40,41,42,43,
+         36,37,38,39
+       ],
+       "colors": [0, 0, 127],
+       "messageType": "note",
+       "drawType": "button"
+     }
+   ]
+}
